@@ -1,0 +1,61 @@
+EXIF tags in 'example_img.jpg' ('Intel' byte order):
+--------------------+----------------------------------------------------------
+Tag                 |Value
+--------------------+----------------------------------------------------------
+Manufacturer        |NIKON CORPORATION
+Model               |NIKON D70s
+Orientation         |Top-left
+X-Resolution        |300
+Y-Resolution        |300
+Resolution Unit     |Inch
+Software            |Ver.1.00
+Date and Time       |2005:12:14 14:39:47
+White Point         |0,313, 0,329
+Primary Chromaticiti|0,64, 0,33, 0,21, 0,71, 0,15, 0,06
+YCbCr Coefficients  |0,299, 0,587, 0,114
+YCbCr Positioning   |Co-sited
+Gamma               |2,2
+Exposure Time       |1/60 sec.
+F-Number            |f/29,0
+Exposure Program    |Manual
+ISO Speed Ratings   |1000
+Exif Version        |Exif Version 2.21
+Date and Time (Origi|2005:12:14 14:39:47
+Date and Time (Digit|2005:12:14 14:39:47
+Components Configura|Y Cb Cr -
+Compressed Bits per | 2
+Shutter Speed       |5,91 EV (1/60 sec.)
+Aperture            |9,72 EV (f/29,0)
+Exposure Bias       |0,00 EV
+Maximum Aperture Val|4,30 EV (f/4,4)
+Subject Distance    |4294967295,0 m
+Metering Mode       |Pattern
+Light Source        |Unknown
+Flash               |Flash did not fire
+Focal Length        |60,0 mm
+Maker Note          |28378 bytes undefined data
+FlashPixVersion     |FlashPix Version 1.0
+Color Space         |Internal error (unknown value 65535)
+Pixel X Dimension   |1488
+Pixel Y Dimension   |2240
+Sensing Method      |One-chip color area sensor
+File Source         |DSC
+Scene Type          |Directly photographed
+CFA Pattern         |8 bytes undefined data
+Exposure Mode       |Manual exposure
+White Balance       |Auto white balance
+Digital Zoom Ratio  | 1
+Focal Length in 35mm|90
+Scene Capture Type  |Standard
+Gain Control        |Low gain up
+Contrast            |Hard
+Saturation          |High saturation
+Sharpness           |Hard
+Subject Distance Ran|Unknown
+GPS Tag Version     |2.2.0.0
+North or South Latit|N
+Latitude            |43, 47,135666,  0
+East or West Longitu|E
+Longitude           |11, 14,077166,  0
+Altitude            |42,1230
+--------------------+----------------------------------------------------------
